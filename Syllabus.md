@@ -1,6 +1,6 @@
 ### *CS-348 01 - Spring 2015*
 
-# Software Process Management
+# CS-348 Software Process Management
 
 ## Credit and Contact Hours
 3 credits<br>
