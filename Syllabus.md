@@ -18,7 +18,7 @@ MW 8:00-9:15am<br>
 ST 107
 
 <img src=http://ericsink.com/scm/1802_image001.jpg align=right width=100>
-## Textbook
+## Textbooks
 *Version Control by Example*<br>
 Eric Sink<br>
 Source Gear, 2011<br>
