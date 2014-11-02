@@ -1,4 +1,4 @@
-### *CS-348 01 - Spring 2015*
+### *CS-348 01 --- Spring 2015*
 
 # CS-348 Software Process Management
 
