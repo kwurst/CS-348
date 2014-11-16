@@ -53,7 +53,7 @@ You will spend 3 hours per week in class, ... . In addition, you should expect t
 >---New England Association of Schools and Colleges, Commission on Institutions of Higher Education, [Policy on Credits and Degrees](http://cihe.neasc.org/downloads/POLICIES/Pp111_PolicyOnCreditsAndDegrees.pdf)
 
 ## Prerequisites
-This course has a prerequisite of CS 343 – Software Construction, Design and Architecture. We will be looking at the process of planning and developing a large software project in a team, and so I expect you to have experienced developing software and working with others. You will be bringing your experiences in these situations, both good and bad, to our discussions of software process management, and your experiences will lead you to a better understanding why such processes are needed.
+This course has a prerequisite of CS 343 – Software Construction, Design and Architecture. We will be looking at the process of planning and developing a large software project in a team, and so I expect you to have experienced developing software and working with others. You will be bringing your experiences in these situations, both good and bad, to our discussions of software process management, and your experiences will lead you to a better understanding of why such processes are needed.
 
 CS 343 required EN 252 – Technical Writing. You should be able to write professionally. You should be able to write professional-quality reports, memos and documentation.
 
