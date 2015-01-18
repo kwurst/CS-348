@@ -11,7 +11,7 @@ Lecture: 3 hours/week
 
 ## Instructor
 Dr. Karl R. Wurst<br>
-See [http://cs.worcester.edu/kwurst/]() for contact information and schedule.
+See <a href="http://cs.worcester.edu/kwurst/" target="_blank">http://cs.worcester.edu/kwurst/</a> for contact information and schedule.
 
 ## Meeting Times and Locations
 MW 8:00-9:15am<br>
@@ -23,14 +23,14 @@ ST 107
 Eric Sink<br>
 Source Gear, 2011<br>
 ISBN-13: 9780983507901<br>
-[Free downloads available here](http://ericsink.com/vcbe/)
+<a href="http://ericsink.com/vcbe/" target="_blank">Free downloads available here</a>
 
 <img src=http://www-fp.pearsonhighered.com/bigcovers/0132350882.jpg align=left height=110 style="padding-right:10px">
 *Clean Code: A Handbook of Agile Software Craftsmanship*<br>
 Robert C. Martin<br>
 Prentice Hall, 2009<br>
 ISBN-13: 9780132350884<br>
-[Website](http://www.pearsonhighered.com/educator/product/Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/9780132350884.page)<br>
+<a href="http://www.pearsonhighered.com/educator/product/Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/9780132350884.page" target="_blank">Website</a><br>
 (See [ACM Student Membership](#acm-student-membership) for a way you can get access to this textbook for no additional cost.)
 
 <img src=http://www.agilelearninglabs.com/wp-content/uploads/2012/03/scrum-intro-cover-front-outlined-400-207x300.jpg align=left height=110 style="padding-right:10px">
@@ -38,16 +38,17 @@ ISBN-13: 9780132350884<br>
 Chris Sims and Hillary Louise Johnson<br>
 Dymaxicon, 2012<br>
 ISBN-13: 9781937965044<br>
-[Available as a $0.99 Kindle book](http://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction-ebook/dp/B007P5N8D4/ref=tmm_kin_title_0?_encoding=UTF8&sr=8-1&qid=1333650002)<br>
-[Read the whole text online here](http://www.agilelearninglabs.com/resources/scrum-introduction/)
+<a href="http://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction-ebook/dp/B007P5N8D4/ref=tmm_kin_title_0?_encoding=UTF8&sr=8-1&qid=1333650002" target="_blank">Available as a $0.99 Kindle book</a><br>
+<a href="http://www.agilelearninglabs.com/resources/scrum-introduction/" target= "_blank">Read the whole text online here</a>
 
 <img src=http://www.headfirstlabs.com/Images/hfsd_cover.jpg align=left height=110 style="padding-right:10px">
 *Head First Software Development*<br>
 Dan Pilone and Russ Miles<br>
 O'Reilly Media, 2007<br>
 ISBN-13: 9780596527358<br>
-[Website](http://www.headfirstlabs.com/books/hfsd/)<br>
+<a href="http://www.headfirstlabs.com/books/hfsd/" target="blank">Website</a><br>
 (See [ACM Student Membership](#acm-student-membership) for a way you can get access to this textbook for no additional cost.)
+
 
 ## Required Materials
 In addition to the textbook, to successfully complete this course you will need:
@@ -59,7 +60,7 @@ In addition to the textbook, to successfully complete this course you will need:
 	3. **Tutorials and articles** – I will suggest, and you will research on your own, tutorials and articles for you to learn new technologies and techniques we need.
 
 ## <a name="acm-student-membership"></a>ACM Student Membership
-It is *strongly* suggested that you have an [ACM Student Membership](http://www.acm.org/membership/student/). An ACM Student Membership costs only $19 and you get access to a [large list of benefits](http://www.acm.org/membership/membership/student/benefits), including Safari Books, which includes electronic copies of both *Clean Code* and *Head First Software Development*.
+It is *strongly* suggested that you have an <a href="http://www.acm.org/membership/student/" target="_blank">ACM Student Membership</a>. An ACM Student Membership costs only $19 and you get access to a <a href="http://www.acm.org/membership/membership/student/benefits" target="_blank">large list of benefits</a>, including Safari Books, which includes electronic copies of both *Clean Code* and *Head First Software Development*.
 
 The ACM is the world's largest educational and scientific computing professional society. As a soon-to-be professional in computing, you should be a member to keep up-to-date with advancements in the field. And it looks great on your resume!
 
@@ -79,7 +80,8 @@ You will spend 3 hours per week in class, ... . In addition, you should expect t
 >1.	One hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each week for approximately fifteen weeks for one semester or trimester hour of credit, or ten to twelve weeks for one quarter hour of credit, or the equivalent amount of work over a different amount of time; or 
 2.	At least an equivalent amount of work as required in paragraph (1) of this definition for other academic activities as established by the institution including laboratory work, internships, practica, studio work, and other academic work leading to the award of credit hours.
 
->---New England Association of Schools and Colleges, Commission on Institutions of Higher Education, [Policy on Credits and Degrees](http://cihe.neasc.org/downloads/POLICIES/Pp111_PolicyOnCreditsAndDegrees.pdf)
+>---New England Association of Schools and Colleges, Commission on Institutions of Higher Education, <a href="http://cihe.neasc.org/downloads/POLICIES/Pp111_PolicyOnCreditsAndDegrees.pdf" target="_blank">Policy on Credits and Degrees</a>
+
 
 ## Prerequisites
 This course has a prerequisite of CS 343 – Software Construction, Design and Architecture. We will be looking at the process of planning and developing a large software project in a team, and so I expect you to have experienced developing software and working with others. You will be bringing your experiences in these situations, both good and bad, to our discussions of software process management, and your experiences will lead you to a better understanding of why such processes are needed.
@@ -121,7 +123,7 @@ This course does not fulfill any LASC Content Area requirements, but contributes
 * Make connections across courses and disciplines.
 
 ## Program-Level Student Learning Outcomes
-This course addresses the following outcomes of the Computer Science Major (see [http://www.worcester.edu/ComputerScienceDept/Shared%20Documents/ProgramOutcomes.aspx]()):
+This course addresses the following outcomes of the Computer Science Major:
 
 Upon successful completion of the Major in Computer Science, students will be able to:
 
@@ -197,33 +199,33 @@ By all means, try to work out the material on your own, but ask for help when yo
 I am here to help you understand the material and be successful in the course.
 
 ## Contacting Me
-You may contact me by email (Karl.Wurst@worcester.edu), telephone (+1-508-929-8728), or see me in my office. My office hours are listed on the schedule on my web page ([http://cs.worcester.edu/kwurst/]()) or you may make an appointment for a mutually convenient time.
+You may contact me by email (<a href="mailto:Karl.Wurst@worcester.edu">Karl.Wurst@worcester.edu</a>), telephone (+1-508-929-8728), or see me in my office. My office hours are listed on the schedule on my web page (<a href="http://cs.worcester.edu/kwurst/" target="_blank">http://cs.worcester.edu/kwurst/</a>) or you may make an appointment for a mutually convenient time.
 
-**If you email me, please include “[CS 348]” in the subject line, so that my email program can correctly file your email and ensure that your message does not get buried in my general mailbox.**
+**If you email me, please include “[CS-348]” in the subject line, so that my email program can correctly file your email and ensure that your message does not get buried in my general mailbox.**
 
 **If you email me from an account other than your Worcester State email, please be sure that your name appears somewhere in the email, so that I know who I am communicating with.** 
 
 You may expect that I will get back to you within 24 hours of your email or phone call (with the exception of weekends and holidays), although you will likely hear from me much sooner.
 
 ## Code of Conduct/Classroom Civility
-All students are expected to adhere to the policies as outlined in the University’s Student Code of Conduct.
+All students are expected to adhere to the policies as outlined in the University's Student Code of Conduct (<a href="http://www.worcester.edu/CodeofConduct/" target="_blank">http://www.worcester.edu/CodeofConduct/</a>).
 
 ## Student Responsibilities 
-* Contribute to a class atmosphere conducive to learning for everyone by asking/answering questions, participating in class discussions. Don’t just lurk!
-* Seek help when necessary
-* Start assignments as soon as they are posted.  Do not wait until the due date to seek help/to do the assignments
-* Make use of the academic success center (see below)
+* Contribute to a class atmosphere conducive to learning for everyone by asking/answering questions, participating in class discussions. Don't just lurk!
+* Seek help when necessary.
+* Start assignments as soon as they are posted. Do not wait until the due date to seek help/to do the assignments.
+* Make use of the academic success center (see below).
 * Expect to spend at least 9 hours of work per week on classwork.
 * Each student is responsible for the contents of the textbook readings, handouts, and homework assignments.
 
 ## Americans with Disabilities Act
-Worcester State University and this instructor are committed to the full participation of all students, and will provide accommodations for any student with documented disabilities who are registered with the Disability Services Office (DSO). Please contact the instructor as early as possible to discuss necessary accommodations. All information regarding disabilities will be treated with confidentiality. The DSO is located in the Administration Building, Room 131 and can be reached by phone (508-929-8733) or email (dso@worcester.edu).  
+Worcester State University and this instructor are committed to the full participation of all students, and will provide accommodations for any student with documented disabilities who are registered with the Disability Services Office (DSO). Please contact the instructor as early as possible to discuss necessary accommodations. All information regarding disabilities will be treated with confidentiality. The DSO is located in the Administration Building, Room 131 and can be reached by phone (508-929-8733) or email (<a href="mailto:dso@worcester.edu">dso@worcester.edu</a>).  
 
 ## Tutoring Services/Academic Success Center
 Tutoring Services are offered through the Academic Success Center (ASC).  The ASC is located on the first floor of the Administration building, A-130.  Tutoring services are provided to students FREE of charge.  Students seeking academic assistance should visit the center as soon as possible or contact the Tutoring Coordinator at 508-929-8139
 
 ## The Writing Center
-The writing center provides free assistance to students in the areas of research and writing.  It is located on the third floor of the Sullivan Academic Building, S306.  To schedule an appointment, please call 508-929-8112 or email the Center at writingcenter@worcester.edu.  To find out more information about the Writing Center including the Center’s hours and the Center’s Online Writing Lab, visit their website at [www.worcester.edu/writing]()
+The writing center provides free assistance to students in the areas of research and writing.  It is located on the third floor of the Sullivan Academic Building, S306.  To schedule an appointment, please call 508-929-8112 or email the Center at writingcenter@worcester.edu.  To find out more information about the Writing Center including the Center's hours and the Center's Online Writing Lab, visit their website at <a href="http://www2.worcester.edu/WritingCenter/" target="_blank">http://www2.worcester.edu/WritingCenter/</a>.
 
 ## Worcester State Library
 Worcester State Library has access to many articles through online databases including J-STOR. In addition many articles and book chapters are available to students through Inter-Library Loan (ILL).  With a little planning, ILL expands your ability to get credible information sources about topics you pursue in your course work.  Finally WSU students are free to use many of the library resources within the consortium. Given all of these resources it is extremely unlikely that you should have to pay for access to individual articles. Please work with the reference librarians to find the appropriate way to access materials you need.  You have already paid for these resources through your fees—please make use of them.
@@ -231,23 +233,23 @@ Worcester State Library has access to many articles through online databases inc
 ## Academic Conduct
 Each student is responsible for the contents of the readings, discussions, class materials, textbook and handouts. 
 
-**You should familiarize yourself with Worcester State College’s Academic Honesty policy. The policy outlines what constitutes academic dishonesty, what sanctions may be imposed and the procedure for appealing a decision. The complete Academic Honesty Policy appears at: [http://worcester.edu/Academics/Shared%20Documents/AcademicHonesty.aspx]()**
+**You should familiarize yourself with Worcester State College's Academic Honesty policy. The policy outlines what constitutes academic dishonesty, what sanctions may be imposed and the procedure for appealing a decision. The complete Academic Honesty Policy appears in: <a href="http://www.worcester.edu/CodeofConduct/" target="_blank">http://www.worcester.edu/CodeofConduct/</a>**
 
 **If you have a serious problem that prevents you from finishing an assignment on time, contact me and we'll come up with a solution.**
 
 ## Acknowledgements
-This course is heavily influenced by discussions with [Dr. Stoney Jackson](http://mars.wne.edu/~hjackson/) of Western New England University (64 communing hours in his car, lunches, attending his CS-390 class, and more...) during the Fall 2014 semester. It is also based on materials from [Dr. Heidi Ellis](http://mars.wne.edu/~hellis) of Western New England University, and materials from the [Teaching Open Source](http://teachingopensource.org/index.php/Main_Page)/[POSSE](http://teachingopensource.org/index.php/POSSE) community. 
+This course is heavily influenced by discussions with <a href="http://mars.wne.edu/~hjackson/" target="_blank">Dr. Stoney Jackson</a> of Western New England University (64 commuting hours in his car, lunches, attending his CS-390 class, and more...) during the Fall 2014 semester. It is also based on materials from <a href="http://mars.wne.edu/~hellis" target="_blank">Dr. Heidi Ellis</a> of Western New England University, and materials from the <a href="http://teachingopensource.org/index.php/Main_Page" target="_blank">Teaching Open Source</a>/<a href="http://teachingopensource.org/index.php/POSSE" target="_blank">POSSE</a> community.
 
 ## Schedule
 Our first class will be on Wednesday, 21 January 2015
 
 Our last class will be on Monday, 4 May 2015
 
-We will not have class on Monday, 16 February 2015 due to the President’s Day holiday; on Wednesday, 4 March 2015 because I will be away at a conference; on Monday, 16 March 2016 and Wednesday, 18 March 2016 due to Spring Break; and on Monday, 20 April 2015 due to the Patriot’s Day holiday.
+We will not have class on Monday, 16 February 2015 due to the President’s Day holiday; on Monday, 16 March 2016 and Wednesday, 18 March 2016 due to Spring Break; and on Monday, 20 April 2015 due to the Patriot’s Day holiday.
 
 Our scheduled final exam period is Friday, 8 May 2015 from 8:30am-11:30am.
 
 ##Copyright and License
-####&copy; 2014 Karl R. Wurst, Worcester State University
+####&copy; 2015 Karl R. Wurst, Worcester State University
 
-<img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/]() or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+<img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">http://creativecommons.org/licenses/by-sa/4.0/</a> or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
