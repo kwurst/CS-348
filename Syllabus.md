@@ -1,4 +1,4 @@
-*Version 2018-Spring-0.1-DRAFT, Revised 10 January 2018*
+*Version 2018-Spring-0.2-DRAFT, Revised 15 January 2018*
 ### *CS-348 01, 02 &mdash; Spring 2018*
 
 # CS-348 Software Process Management
@@ -162,8 +162,8 @@ Your grade for the course will be determined by which assignments and/or how man
 Assignment | Earn Base Grade<br>A | Earn Base Grade<br>B | Earn BaseGrade<br>C | Earn Base Grade<br>D 
 --- | :-: | :-: | :-: | :-:
 Attendance and Participation (out of 27) | 26 | 25 | 24 | 23
-Assignments<br>&nbsp;(out of *n* assignments, where *n* &#8776; 5)<br>&nbsp;&nbsp;&mdash; Base Assignment<br>&nbsp;&nbsp;&mdash; Intermediate "Add-On"<br>&nbsp;&nbsp;&mdash; Advanced "Add-On" |  <br>*n*<br>3<br>2 | <br>*n*<br>2<br>1 | <br>*n*<br>1<br>&nbsp;  | <br>*n* - 1<br><br>&nbsp;
-Exam Grade Average (3 exams) | > 40% | > 40% | > 40% | &le; 40%
+Assignments<br>&nbsp;(out of *n* assignments, where *n* &#8776; 8)<br>&nbsp;&nbsp;&mdash; Base Assignment<br>&nbsp;&nbsp;&mdash; Intermediate "Add-On"<br>&nbsp;&nbsp;&mdash; Advanced "Add-On" |  <br>*n*<br>4<br>2 | <br>*n*<br>2<br>1 | <br>*n*<br>1<br>&nbsp;  | <br>*n* - 1<br><br>&nbsp;
+Exam Grade Average (3 exams) | > 50% | > 50% | > 50% | &le; 50%
 
 
 * **Failing to meet the all the requirements for a particular letter grade will result in not earning that grade.** For example, even if you complete all other requirements for a B grade, but fail to submit and Advanced Add-On that meets specification, you will earn a C grade.
@@ -182,33 +182,33 @@ Exam Grade Average (3 exams) | > 40% | > 40% | > 40% | &le; 40%
 ## Attendance and Participation
 * For class sessions with a specific lab assignment, you are expected to work on the assigned laboratory material within your group. Every member of the group is expected to contribute. The group is expected to complete the lab assignment or make substantial progress toward the completion of the lab assignment. If you complete the assigned material before the end of class you must show the instructor before leaving.
 * For class sessions with no specific lab assignment, you are expected to be paying attention, participating in the class discussion, and asking questions.
-* Arriving late and leaving early (unless you have finished and shown your work to the instructor) will result in your work being considered "Not Acceptable" for that lab session.
-* Working on things that are not part of the work for this class during class time will result in your work being considered "Not Acceptable" for that lab session.
+* Arriving late and leaving early (unless you have finished and shown your work to the instructor) will result in your work being considered "Does Not Yet Meet Specification" for that lab session.
+* Working on things that are not part of the work for this class during class time will result in your work being considered "Does Not Yet Meet Specification" for that lab session.
 
 ## Assignments
 The assignments will give you a chance to apply the material to larger tasks. The assignments will vary in what you will be asked to do - programming projects, written assignments, analysis, etc.
 
 ### Base Assignment
-Every assignment will have a *base assignment* portion that must be completed for the assignment to be considered "Acceptable". This will generally involve developing tests, determining suitable test inputs, and/or determining suitable test paths.
+Every assignment will have a *base assignment* portion that must be completed for the assignment to be considered "Meets Specification". This will generally involve developing tests, determining suitable test inputs, and/or determining suitable test paths.
 
-* Anyone working to earn a grade of C or higher must submit "Acceptable" work for **all** Base Assignments.
-*  Anyone working to earn a grade of D or higher must submit "Acceptable" work for **all but one** of the Base Assignments.
+* Anyone working to earn a grade of C or higher must submit "Meets Specification" work for **all** Base Assignments.
+* Anyone working to earn a grade of D or higher must submit "Meets Specification" work for **all but one** of the Base Assignments.
 
-*A more complete specification for an "Acceptable" (passing) Base Assignment will be given during with each assignment.*
+*A more complete specification for an "Meets Specification" (passing) Base Assignment will be given during with each assignment.*
 
 ### Intermediate "Add-On"
 Each assignment will also have an *Intermediate Add-On* portion can be completed for anyone working for a course grade of C or higher. This will involve more detailed analysis of the developed model, design, architecture, or code.
 
 * Differing numbers of Intermediate "Add-Ons" are required for different passing grades of C or higher. See the table under *Course Grade Determination*.
 
-*A more complete specification for "Acceptable" (passing) Intermediate "Add-Ons" will be given during with each assignment.*
+*A more complete specification for "Meets Specification" (passing) Intermediate "Add-Ons" will be given during with each assignment.*
 
 ### Advanced "Add-On"
 Each assignment will also have an *Advanced Add-On* portion can be completed for anyone working for a course grade of B or higher. This will involve even more detailed analysis of the developed model, design, architecture, or code.
 
 * Differing numbers of Advanced "Add-Ons" are required for different passing grades of B or higher. See the table under *Course Grade Determination*.
 
-*A more complete specification for "Acceptable" (passing) Advanced "Add-Ons" will be given during with each assignment.*
+*A more complete specification for "Meets Specification" (passing) Advanced "Add-Ons" will be given during with each assignment.*
 
 ## Exams
 
@@ -235,17 +235,15 @@ Because your first attempt at producing acceptable work for a new category of as
 * Base Assignment
 * Intermediate Assignment "Add-On"
 * Advanced Assignment "Add-On"
-* Self-Directed Professional Development Blog Entry
 
 ## Tokens
-Each student will be able to earn up to 5 tokens in the first week. These tokens will be earned by completing simple set-up and housekeeping tasks for the course.
+Each student will be able to earn up to 5 tokens over the course of the semeester. These tokens will be earned by completing simple set-up and housekeeping tasks for the course.
 
 Each token can be used to:
 
 * replace a single missed class session (up to a maximum of 3 missed class sessions)
 * turn in an assignment late by 24 hours
-* turn in a second blog entry in an a single week
-* revise and resubmit an assignment (up to a maximum of 2) that was judged "not acceptable". Any work to be revised and resubmitted must have been submitted by the original due date. 
+* revise and resubmit an assignment (up to a maximum of 2) that was judged "Does Note Yet Meet Specification". Any work to be revised and resubmitted must have been submitted by the original due date. 
 
 ### Token Accounting
 * Unused tokens will be kept track of in the Blackboard *My Grades* area.
