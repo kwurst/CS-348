@@ -1,9 +1,7 @@
-*Version 2018-Spring-0.2-DRAFT, Revised 15 January 2018*
+*Version 2018-Spring-1.0-Final, Revised 15 January 2018*
 ### *CS-348 01, 02 &mdash; Spring 2018*
 
 # CS-348 Software Process Management
-
-# THIS IS A DRAFT SYLLABUS. IT IS SUBJECT TO CHANGE UNTIL THE FIRST DAY OF CLASS (16 January 2018)
 
 ## Credit and Contact Hours
 3 credits<br>
@@ -215,7 +213,7 @@ Each assignment will also have an *Advanced Add-On* portion can be completed for
 There will be three exams, one of which will be a non-comprehensive final exam.
 
 * Exam 1 is tentively scheduled to be given during class on the 14th or 15th of February 2018.
-* Exam 2 is tentively scheduled to be given during class on the 14th or 15th of April 2018.
+* Exam 2 is tentively scheduled to be given during class on the 4th or 5th of April 2018.
 * Exam 3 will be given during the scheduled final exam period:
     * Section 01 &mdash; 10 May 2018 &mdash; 8:30-11:30am 
     * Section 02 &mdash; 14 May 2018 &mdash; 12:30-3:30pm 
