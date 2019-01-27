@@ -1,5 +1,5 @@
-*Version 2018-Spring-1.0-Final, Revised 15 January 2018*
-### *CS-348 01, 02 &mdash; Spring 2018*
+*Version 2019-Spring-1.0, Revised 27 January 2019*
+### *CS-348 01 &mdash; Spring 2019*
 
 # CS-348 Software Process Management
 
@@ -16,12 +16,16 @@ See [http://cs.worcester.edu/kwurst/](http://cs.worcester.edu/kwurst/) for conta
 
 ## Meeting Times and Locations
 Section | Day/Time | Room
-:-: | :-: | :-:01 | TR 8:30-9:45am | ST 107
-02 | MW 12:30-1:45pm | ST 107
+:-: | :-: | :-:
+01 | MW 8:00-9:15am | ST 107
 
 ## It's in the Syllabus
-<img src=http://www.phdcomics.com/comics/archive/phd051013s.gif><br>
-<a href=http://www.phdcomics.com/comics.php?f=1583>http://www.phdcomics.com/comics.php?f=1583</a>
+<img src="http://www.phdcomics.com/comics/archive/phd051013s.gif"><br>
+<a href="http://www.phdcomics.com/comics.php?f=1583">http://www.phdcomics.com/comics.php?f=1583</a>
+
+Of course, not *everything* is in the syllabus, but many things are.
+
+If you have a question, please check the syllabus first, and then ask if you can't find the answer.
 
 ## Textbooks
 <table cellpadding="1" border="0">
@@ -37,7 +41,7 @@ Section | Day/Time | Room
 <tr>
 <td><img src="http://cs.worcester.edu/kwurst/img/1802_image001.jpg" width="110" /></td>
 <td>
-<p><em>Version Control by Example</em><br /> Eric Sink<br /> Source Gear, 2011<br /> ISBN-13: 9780983507901<br /> <a href="http://ericsink.com/vcbe/" target="_blank">Free downloads available here</a></p>
+<p><em>Version Control by Example</em><br /> Eric Sink<br /> Source Gear, 2011<br /> ISBN-13: 9780983507901<br /> <a href="http://ericsink.com/vcbe/index.html" target="_blank">Free downloads available here</a></p>
 </td>
 </tr>
 </tbody>
@@ -131,6 +135,16 @@ Upon successful completion of the Major in Computer Science, students will be ab
 * Team management
 * Code review
 
+## Instructional Methods
+This class will not be a traditional “lecture” class, and will incorporate some teaching methods that may be unfamiliar to you.
+
+### POGIL
+Rather than lecturing about the course content, you and your classmates will "discover" the content for yourselves through small-group work.
+
+The group work will be a very structured style called Process Oriented Guided Inquiry Learning (POGIL). Through investigation of models of the concepts and answering questions that guide the team toward understanding of the models, your team will learn both the content and team process skills. In your POGIL groups each group member will have a specific role to play during the activity, and roles will be rotated so that everyone will get to experience a variety of process skills.
+
+For more information on POGIL, see [https://pogil.org/about-pogil/what-is-pogil](https://pogil.org/about-pogil/what-is-pogil).
+
 ## Grading Policies
 I want everyone receiving a passing grade in this course to be, at least, minimally competent in the course learning outcomes and for that to be reflected in your course grade. Traditional grading schemes do a poor job of indicating competency.
 
@@ -159,17 +173,16 @@ Your grade for the course will be determined by which assignments and/or how man
 
 Assignment | Earn Base Grade<br>A | Earn Base Grade<br>B | Earn BaseGrade<br>C | Earn Base Grade<br>D 
 --- | :-: | :-: | :-: | :-:
-Attendance and Participation (out of 27) | 26 | 25 | 24 | 23
-Assignments<br>&nbsp;(out of *n* assignments, where *n* &#8776; 8)<br>&nbsp;&nbsp;&mdash; Base Assignment<br>&nbsp;&nbsp;&mdash; Intermediate "Add-On"<br>&nbsp;&nbsp;&mdash; Advanced "Add-On" |  <br>*n*<br>4<br>2 | <br>*n*<br>2<br>1 | <br>*n*<br>1<br>&nbsp;  | <br>*n* - 1<br><br>&nbsp;
+Attendance and Participation (out of 25) | 24 | 23 | 22 | 21
+Assignments<br>&nbsp;(out of *n* assignments, where *n* &#8776; 8)<br>&nbsp;&nbsp;&mdash; Base Assignment<br>&nbsp;&nbsp;&mdash; Intermediate "Add-On"<br>&nbsp;&nbsp;&mdash; Advanced "Add-On" |  <br>*n*<br>int( *n* / 2 )<br>int( *n* / 4 ) | <br>*n*<br>int( *n* / 4 )<br>1 | <br>*n*<br>1<br>&nbsp;  | <br>*n* - 1<br><br>&nbsp;
 Exam Grade Average (3 exams) | > 50% | > 50% | > 50% | &le; 50%
 
-
-* **Failing to meet the all the requirements for a particular letter grade will result in not earning that grade.** For example, even if you complete all other requirements for a B grade, but fail to submit and Advanced Add-On that meets specification, you will earn a C grade.
+* **Failing to meet the all the requirements for a particular letter grade will result in not earning that grade.** For example, even if you complete all other requirements for a B grade, but fail to submit an Advanced Add-On that meets specification, you will earn a C grade.
 * **Failing to meet the all the requirements for earning a D grade will result in a failing grade for the course.**
 
 #### Plus or Minus Grade Modifiers
 
-* You will have a ***minus*** modifier applied to your base grade if the average of your exam grades is lower than 60%.
+* You will have a ***minus*** modifier applied to your base grade if the average of your exam grades is 65% or lower.
 * You will have a ***plus*** modifier applied to your base grade if the average of your exam grades is 85% or higher.
 * Each unused token remaining at the end of the semester can be used to increase the exam average by 2 percentage points.
 
@@ -178,10 +191,11 @@ Exam Grade Average (3 exams) | > 50% | > 50% | > 50% | &le; 50%
 * WSU has no A+ grade.
 
 ## Attendance and Participation
-* For class sessions with a specific lab assignment, you are expected to work on the assigned laboratory material within your group. Every member of the group is expected to contribute. The group is expected to complete the lab assignment or make substantial progress toward the completion of the lab assignment. If you complete the assigned material before the end of class you must show the instructor before leaving.
-* For class sessions with no specific lab assignment, you are expected to be paying attention, participating in the class discussion, and asking questions.
-* Arriving late and leaving early (unless you have finished and shown your work to the instructor) will result in your work being considered "Does Not Yet Meet Specification" for that lab session.
-* Working on things that are not part of the work for this class during class time will result in your work being considered "Does Not Yet Meet Specification" for that lab session.
+Since there will be no lecture during class, it is particularly important that you attend class sessions and participate in developing the material and concepts with your group. Simply being present is not enough to really learn the material - you need to play your part.
+
+During class time you are expected to participate in your group, to play your assigned role, and to contribute to your groups's notes.
+
+**You will be using your computer within your group activities. You should only be using your computer for the classwork. You should not be checking sites that are unrelated to the course, or messaging friends. If I see that you are doing other things on your computer and not participating in your group, I will warn you. If I have to warn you a second time during that class, you will lose your participation points for that class.**
 
 ## Assignments
 The assignments will give you a chance to apply the material to larger tasks. The assignments will vary in what you will be asked to do - programming projects, written assignments, analysis, etc.
@@ -195,14 +209,14 @@ Every assignment will have a *base assignment* portion that must be completed fo
 *A more complete specification for an "Meets Specification" (passing) Base Assignment will be given during with each assignment.*
 
 ### Intermediate "Add-On"
-Each assignment will also have an *Intermediate Add-On* portion can be completed for anyone working for a course grade of C or higher. This will involve more detailed analysis of the developed model, design, architecture, or code.
+Each assignment will also have an *Intermediate Add-On* portion can be completed for anyone working for a course grade of C or higher. This will involve deeper understanding of the material or additional tasks.
 
 * Differing numbers of Intermediate "Add-Ons" are required for different passing grades of C or higher. See the table under *Course Grade Determination*.
 
 *A more complete specification for "Meets Specification" (passing) Intermediate "Add-Ons" will be given during with each assignment.*
 
 ### Advanced "Add-On"
-Each assignment will also have an *Advanced Add-On* portion can be completed for anyone working for a course grade of B or higher. This will involve even more detailed analysis of the developed model, design, architecture, or code.
+Each assignment will also have an *Advanced Add-On* portion can be completed for anyone working for a course grade of B or higher. This will involve even deeper understanding of the material or additional tasks.
 
 * Differing numbers of Advanced "Add-Ons" are required for different passing grades of B or higher. See the table under *Course Grade Determination*.
 
@@ -212,11 +226,9 @@ Each assignment will also have an *Advanced Add-On* portion can be completed for
 
 There will be three exams, one of which will be a non-comprehensive final exam.
 
-* Exam 1 is tentively scheduled to be given during class on the 14th or 15th of February 2018.
-* Exam 2 is tentively scheduled to be given during class on the 4th or 5th of April 2018.
-* Exam 3 will be given during the scheduled final exam period:
-    * Section 01 &mdash; 10 May 2018 &mdash; 8:30-11:30am 
-    * Section 02 &mdash; 14 May 2018 &mdash; 12:30-3:30pm 
+* Exam 1 is scheduled to be given during class on the 25th of February 2019.
+* Exam 2 is tentively scheduled to be given during class on the 1st of April 2019.
+* Exam 3 will be given during the scheduled final exam period: 10 May 2019 &mdash; 8:30-11:30am 
 
 ## Deliverables
 All work will be submitted electronically through a variety of tools. The due date and time will be given on the assignment. The submission date and time will be determined by the submission timestamp of the tool used.
@@ -228,11 +240,14 @@ Late work will not be accepted. (See *Tokens* below.)
 
 ## Revision and Resubmission of Work
 
-Because your first attempt at producing acceptable work for a new category of assignment may be difficult due to being unfamiliar with the specification and not having had any feedback yet, you may revise and resubmit ***a single*** assignment in each of the following categories *only*:
+If you receive a ***Does Not Yet Meet Specification*** on any portion of an Assignment (Base, Intermediate Add-On, or Advanced Add-On) you may revise and resubmit the assignment ***one time only*** without the use of a token.
 
-* Base Assignment
-* Intermediate Assignment "Add-On"
-* Advanced Assignment "Add-On"
+* You must have submitted the original assignment on time, (or one day late with the use of a token.)
+* You must submit your revision within one week from the date when the "Not Acceptable" grade and comments were posted in My Grades. (You may use a token to submit the revision one day late.)
+* You may ask me for clarification of the assignment, or of the comments I made on your submission.
+* You may ask me to look at your revised solution to see if it addresses my comments.
+* If you address all the comments in an acceptable fashion, your grade will be converted to ***Meets Specification***.
+* You must let me know by email when you resubmit the assignment, so that I know to regrade it.
 
 ## Tokens
 Each student will be able to earn up to 5 tokens over the course of the semeester. These tokens will be earned by completing simple set-up and housekeeping tasks for the course.
@@ -241,7 +256,9 @@ Each token can be used to:
 
 * replace a single missed class session (up to a maximum of 3 missed class sessions)
 * turn in an assignment late by 24 hours
-* revise and resubmit an assignment (up to a maximum of 2) that was judged "Does Note Yet Meet Specification". Any work to be revised and resubmitted must have been submitted by the original due date. 
+* turn in a second blog entry in an a single week
+* revise and resubmit an assignment that was judged "***Does Note Meet Specification***. Any work to be revised and resubmitted must have been submitted by the original due date.
+* Each unused token remaining at the end of the semester can be used to increase the exam average by 2 percentage points.
 
 ### Token Accounting
 * Unused tokens will be kept track of in the Blackboard *My Grades* area.
@@ -261,7 +278,7 @@ You may contact me by email (<a href="mailto:Karl.Wurst@worcester.edu">Karl.Wurs
 
 **If you email me from an account other than your Worcester State email, please be sure that your name appears somewhere in the email, so that I know who I am communicating with.** 
 
-<img src=http://www.phdcomics.com/comics/archive/phd042215s.gif><br><a href=http://www.phdcomics.com/comics.php?f=1795>http://www.phdcomics.com/comics.php?f=1795</a>
+<img src="http://www.phdcomics.com/comics/archive/phd042215s.gif"><br><a href="http://www.phdcomics.com/comics.php?f=1795">http://www.phdcomics.com/comics.php?f=1795</a>
 
 You may expect that I will get back to you within 24 hours of your email or phone call (with the exception of weekends and holidays), although you will likely hear from me much sooner.
 
@@ -307,26 +324,16 @@ It is my policy to securely dispose of student work one calendar year after grad
 ## Schedule
 *The following course schedule is subject to change.*
 
-Week | Monday<br>Section 02 | Tuesday<br>Section 01 | Wednesday<br>Section 02 | Thursday<br>Section 01
-:-: | :-: | :-: | :-: | :-: Week 1 | *15 January*<br>**No Class**<br>MLK Jr. Day | *16 January* | *17 January* | *18 January*
-Week 2 | *22 January* | *23 January* | *24 January* | *25 January*Week 3 | *29 January* | *30 January* | *31 January* | *1 February*
-Week 4 | *5 February* | *6 February* | *7 February* | *8 February*
-Week 5 | *12 February* | *13 February* | *14 February*<br>**Section 02<br>Exam 1** | *15 February*<br>**Section 01<br>Exam 1**
-Week 6 | *19 February*<br>**No Class**<br>President's Day | *20 February*<br>**No Class**<br>I will be at a conference. | *21 February*<br>**No Class**<br>I will be at a conference. | *22 February*<br>**No Class**<br>I will be at a conference.
-Week 7 | *26 February* | *27 February* | *28 February* | *1 March*
-Week 8 | *5 March* | *6 March* | *7 March* | *8 March*
-Week 9 | *12 March* | *13 March* | *14 March* | *15 March*
-Spring<br>Break | *19 March*<br>**No Class**<br>Spring Break | *20 March*<br>**No Class**<br>Spring Break | *21 March*<br>**No Class**<br>Spring Break | *22 March*<br>**No Class**<br>Spring Break
-Week 10 | *26 March* | *27 March* | *28 March* | *29 March*
-Week 11 | *2 April* | *3 April* | *4 April*<br>**Section 02<br>Exam 2** | *5 April*<br>**Section 01<br>Exam 2**
-Week 12 | *9 April* | *10 April* | *11 April* | *12 April*
-Week 13 | *16 April*<br>**No Class**<br>Patriot's Day | *17 April* | *18 April* | *19 April*
-Week 14 | *23 April* | *24 April* | *25 April* | *26 April*
-Week 15 | *30 April* | *1 May* | *2 May* | *3 May*
-Week 16/<br>Final Exams | *7 May*<br>**Section 02<br>Last class** | *8 May*<br>**Section 01<br>Last class** | *9 May*<br>**No Class**<br>Reading Day | *10 May*<br>***Section 01<br>Final Exam***<br>8:30-11:30am<br>
-Final Exams | *14 May*<br>**Section 02 <br>Final Exam**<br>12:30-3:30pm | 
+* 23 January 2019 - First day of class
+* 18 February 2019 - No Class - President's Day
+* 27 February 2019 - No Class - I will be at a conference
+* 11 March 2019 - No Class - Spring Break
+* 13 March 2019 - No Class - Spring Break
+* 15 April 2019 - No Class - Patriot's Day
+* 6 May 2019  - Last day of class
+* 10 May 2019 - Final Exam Period - 8:30-11:30am
 
 ## Copyright and License
-#### &copy; 2018 Karl R. Wurst, Worcester State University
+#### &copy; 2019 Karl R. Wurst, Worcester State University
 
 <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA
